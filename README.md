@@ -1,5 +1,7 @@
 # CMM560
+
 Computer Vision for the Energy Sector (Short Course at RGU)
+
 More info: https://www.rgu.ac.uk/study/courses/5630-computer-vision-for-the-energy-sector
 
         Topic 1 - Introduction to Python & Jupyter Notebook
